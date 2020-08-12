@@ -1,0 +1,2 @@
+Flask
+sentry-sdk[flask]==0.16.0
